@@ -1,0 +1,140 @@
+{
+    "current": {
+        "duration": {
+            "from": "2025-04-22T16:00:00Z",
+            "to": "2025-04-30T16:00:00Z"
+        },
+        "image": {
+            "src": "/banners/mpDAO_Grants_12_IA_Story_Voting_Period.png",
+            "alt": ""
+        },
+        "action": {
+            "url": "/grants/",
+            "text": ""
+        },
+        "leyend": ""
+    },
+    "history": [
+        {
+            "duration": {
+                "from": "2023-06-16T00:00:00Z",
+                "to": "2023-06-23T23:59:59Z"
+            },
+            "image": {
+                "src": "/banners/vote-campaing-1.png",
+                "alt": "Vote now"
+            },
+            "action": {
+                "url": "/vote",
+                "text": ""
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2023-07-17T00:00:00Z",
+                "to": "2023-07-21T23:59:59Z"
+            },
+            "image": {
+                "src": "/banners/eth-start.jpg",
+                "alt": ""
+            },
+            "action": {
+                "url": "/stake",
+                "text": ""
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2023-11-05T00:00:00Z",
+                "to": "2023-11-13T23:59:59Z"
+            },
+            "image": {
+                "src": "/banners/teller_v2_2x.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "https://app.teller.org/ethereum/lend/detail?category=token&principal=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&collateral=0x48afbbd342f64ef8a9ab1c143719b63c2ad81710",
+                "text": ""
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2023-12-13T00:00:00Z",
+                "to": "2023-12-20T23:59:59Z"
+            },
+            "image": {
+                "src": "",
+                "alt": ""
+            },
+            "action": {
+                "url": "",
+                "text": "Confirm"
+            },
+            "leyend": "<b style=\"font-size:2rem;\">⚠️ Important!</b>\n<div style=\"font-size:1rem;\">\n<br>\nDue to an ongoing investigation into a potential Ledger vulnerability, we&apos;ve temporarily disabled Ledger functionality on our site. Your security is our priority, and we&apos;re working to resolve this swiftly.\n<br><br>\nPlease use alternative wallet options within our platform for uninterrupted service. We apologize for any inconvenience and appreciate your understanding. For inquiries, contact our support on Discord\n</div>"
+        },
+        {
+            "duration": {
+                "from": "2024-01-26T00:00:00Z",
+                "to": "2024-02-02T23:59:59Z"
+            },
+            "image": {
+                "src": "/banners/q1-roadmap.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "https://blog.metapool.app/2024/01/26/meta-pool-roadmap-q1-2024-a-glimpse-into-the-future/",
+                "text": "",
+                "isExternal": true
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2024-03-07T00:00:00Z",
+                "to": "2024-06-02T23:59:59Z"
+            },
+            "image": {
+                "src": "/banners/migrationLaunch.jpg",
+                "alt": ""
+            },
+            "action": {
+                "url": "/vote",
+                "text": ""
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2025-02-25T15:00:00Z",
+                "to": "2025-02-27T15:00:00Z"
+            },
+            "image": {
+                "src": "/banners/mpDAO_Grants_11_meme-coins.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "/grants/",
+                "text": ""
+            },
+            "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2025-03-05T15:00:00Z",
+                "to": "2025-03-30T15:00:00Z"
+            },
+            "image": {
+                "src": "/banners/mpDAO_Grants_12_IA_Story.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "/grants/",
+                "text": ""
+            },
+            "leyend": ""
+        }
+    ]
+}
