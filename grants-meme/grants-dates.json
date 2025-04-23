@@ -1,6 +1,55 @@
+{}
+
 {
     "duration": {
         "from": "2025-04-22T16:00:00Z",
         "to": "2025-04-30T16:00:00Z"
-    }
+    },
+    "history": [
+        {
+            "from": "2023-06-16T00:00:00Z",
+            "to": "2023-06-23T23:59:59Z",
+            "label": "Vote Campaign #1"
+        },
+        {
+            "from": "2023-07-17T00:00:00Z",
+            "to": "2023-07-21T23:59:59Z",
+            "label": "ETH Start Campaign"
+        },
+        {
+            "from": "2023-11-05T00:00:00Z",
+            "to": "2023-11-13T23:59:59Z",
+            "label": "Teller V2"
+        },
+        {
+            "from": "2023-12-13T00:00:00Z",
+            "to": "2023-12-20T23:59:59Z",
+            "label": "Ledger Security Alert"
+        },
+        {
+            "from": "2024-01-26T00:00:00Z",
+            "to": "2024-02-02T23:59:59Z",
+            "label": "Q1 2024 Roadmap"
+        },
+        {
+            "from": "2024-03-07T00:00:00Z",
+            "to": "2024-06-02T23:59:59Z",
+            "label": "Migration Launch"
+        },
+        {
+            "from": "2025-02-25T15:00:00Z",
+            "to": "2025-02-27T15:00:00Z",
+            "label": "Grants #11 – Meme Coins Voting"
+        },
+        {
+            "from": "2025-03-05T15:00:00Z",
+            "to": "2025-03-30T15:00:00Z",
+            "label": "Grants #12 – AI Story Promotion"
+        },
+        {
+            "from": "2025-04-23T15:00:00Z",
+            "to": "2025-04-30T15:00:00Z",
+            "label": "Grants #12 – AI Story Voting"
+        }
+    ]
 }
