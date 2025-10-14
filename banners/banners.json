@@ -135,6 +135,21 @@
                 "text": ""
             },
             "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2025-10-01T15:00:00Z",
+                "to": "2025-10-30T15:00:00Z"
+            },
+            "image": {
+                "src": "/banners/banner_node%20studio2.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "http://bit.ly/NodeStudio-v2",
+                "text": ""
+            },
+            "leyend": ""
         }
     ]
 }
