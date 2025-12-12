@@ -150,6 +150,21 @@
                 "text": ""
             },
             "leyend": ""
+        },
+        {
+            "duration": {
+                "from": "2025-12-12T14:00:00Z",
+                "to": "2026-01-12T14:00:00Z"
+            },
+            "image": {
+                "src": "/banners/ref_program_campaing.png",
+                "alt": ""
+            },
+            "action": {
+                "url": "/grants/",
+                "text": ""
+            },
+            "leyend": ""
         }
     ]
 }
