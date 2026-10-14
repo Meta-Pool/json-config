@@ -169,7 +169,7 @@
         {
             "duration": {
                 "from": "2026-03-17T14:00:00Z",
-                "to": "2026-10-30T23:59:59Z"
+                "to": "2026-10-13T00:00:00Z"
             },
             "image": {
                 "src": "https://tfvd9avuc8gqy0rx.public.blob.vercel-storage.com/MONKEY_BANNER.webp",
